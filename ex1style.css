@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(248, 212, 180);
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: red;
+    size: 30px;
+    font-family: Arial, sans-serif;
+}
+p{
+    font-family: Arial, sans-serif;
+    size: 16px;
+}
+ol ul{
+    margin: 15px;
+}

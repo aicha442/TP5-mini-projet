@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(242, 186, 174);
+}
+h1{
+    text-align: center;
+    color: rgb(73, 80, 143);
+}
+.carte{
+    position: relative;
+    width: 400px;
+    padding: 25px;
+    margin: 30px auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgb(0,0,0,0.1);
+    background-color: antiquewhite;
+}
+.carte img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: left;
+    margin-right: 20px;
+}
+.badge{
+    position:absolute;
+    top: 20px;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    font-size: 12px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+}
